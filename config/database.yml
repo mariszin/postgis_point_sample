@@ -1,0 +1,10 @@
+
+development:
+  adapter: postgis
+  encoding: utf-8
+  host: localhost
+  schema_search_path: public
+  username: rails
+  password: qwerty
+  timeout: 5000
+  database: postgis_point
